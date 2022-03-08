@@ -1,6 +1,6 @@
 # ass1-1
 
-Learning goals
+**Learning goals**
 
 * Mastery of basic pythonic skills:
 
@@ -9,3 +9,4 @@ Learning goals
 * Ability to put skills to use in analyzing a well-studied growth model
 
 * Writing and communication of technical work to readers
+ 
